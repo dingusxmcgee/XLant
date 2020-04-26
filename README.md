@@ -2,8 +2,8 @@
  14u Zlant inspired keyboard
 
 
-![TopView](https://github.com/dingusxmcgee/XLant/blob/master/Renders/XLant-Case-Top-Angled.png?raw=true)
-![BackView](https://github.com/dingusxmcgee/XLant/blob/master/Renders/XLant-Case-Bottom-Angled.png?raw=true)
+![TopView](https://github.com/dingusxmcgee/XLant/blob/master/Renders/XLant-Top-Angled.png?raw=true)
+![BackView](https://github.com/dingusxmcgee/XLant/blob/master/Renders/XLant-Bottom-Angled.png?raw=true)
 
 XLant is a Zlant inspired, 14u, uniform stagger keyboard.
 
