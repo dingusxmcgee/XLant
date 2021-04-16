@@ -8,6 +8,7 @@
 XLant is a Zlant inspired, 14u, uniform stagger keyboard.
 
 PCB can be found here: https://github.com/Spaceman/Spaceboards/tree/master/Keyboards/XLant
+
 Or purchased here: https://www.cbkbd.com/product/xlant-keyboard
 
 Features:
